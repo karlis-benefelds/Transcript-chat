@@ -1,0 +1,6 @@
+{
+  "name": "Transcript Analyzer AI",
+  "description": "An AI-powered chatbot to analyze classroom transcripts, providing insights for both students and professors on key concepts and participation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
